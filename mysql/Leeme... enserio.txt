@@ -1,0 +1,11 @@
+Si desean usar EXACTAMENTE la misma base de datos que yo cree
+en el video, les adjunte a este archivo el "Propietario.sql"
+el cual en su base de datos pueden darle "Importar" y seleccionan
+dicho archivo... 
+
+Pues no considero necesario esto ya que estamos aprendiendo
+pero mas adelante para programas completos les explico como
+hacerlo en un video.
+
+
+chao chao! :)
